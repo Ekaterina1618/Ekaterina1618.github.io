@@ -1,4 +1,4 @@
-# ekaterina.github.io
+# Ekaterina1618.github.io
 My first version. 
 Project work №10 on Git and command line. 
 This project was created for training. 
